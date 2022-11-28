@@ -9,7 +9,6 @@ body {
     background-color: #3B3F45;
     font-family: 'Roboto', sans-serif;
     min-width: 793px;
-    /* width: 100%; */
     margin: 0 auto;
     height: 100%;
     position: relative;
@@ -83,14 +82,6 @@ input[type="checkbox"]:checked + span {
     border-width: 3px;
 }
 
-/* .product p {
-    display: inline;
-} */
-
-/* .one {
-    display: flex;
-    flex-direction: column;
-} */
 
 .product-name {
     display: block;
